@@ -9,7 +9,7 @@
     ![Ufo_Sightings1](https://github.com/kimango/UFOs/blob/main/static/images/Ufo%20Sightings%201.PNG)
     
   - Filter Search: 
-      An image of what the image search.
+      An image of the image search.
     ![Ufo_Sightings2](https://github.com/kimango/UFOs/blob/main/static/images/UFO%20Sightings%202.PNG)
     
   - Filter By City: 
@@ -20,4 +20,15 @@
       By choosing what country, this would show the cities with the UFO sightings from. 
     ![Ufo_Sightings4](https://github.com/kimango/UFOs/blob/main/static/images/Ufo%20sightings%204.PNG)
     
+  ## Results
     
+    - Drawback
+      - One of the drawbacks of the site would be the data is very limited and some locations are notavailable. The only available locations are only on the information inside the table. 
+      
+    - Recommendations:
+      - Add a clear filter for easier accessibility. 
+      - Add a drop down menu to also have easier accessibility for the users. 
+    
+    
+         
+ 
