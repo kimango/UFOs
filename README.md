@@ -1,7 +1,7 @@
 # **UFOs**
 
 ## Overview of the Analysis
-  - To assist Dana in providing data of UFO sightings using JavaScript. This would also provide information of what dates, countries, cities and states the UFO sightings were made. 
+  - To assist Dana in providing data of UFO sightings using JavaScript. This would also provide information of what dates, countries, cities and states of the UFO Sightings.  
 
 ## Results
   - Index page: 
