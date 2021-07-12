@@ -22,7 +22,7 @@
     
   ## Results
   - Drawback
-    - One of the drawbacks of the site would be the data is very limited and some locations are notavailable. The only available locations are only on the information inside the table. 
+    - The data is very limited and some locations are not available. The only available locations are only on the information inside the table. 
 
   - Recommendations:
     - Add a clear filter for easier accessibility. 
